@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281412212577",
+    "project_id": "livetv-bf85b",
+    "storage_bucket": "livetv-bf85b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281412212577:android:9948fb2076a69c30129720",
+        "android_client_info": {
+          "package_name": "com.apextech7.livetv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmgyoDwgIyWk3P8HPFQ13ZMmbd138Jfp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
